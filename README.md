@@ -20,5 +20,8 @@ cd kodluyoruzilkrepo
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## Image
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
